@@ -25,7 +25,9 @@ const Landing = () => {
           <div className="card-content white-text">
             <i className="material-icons large">send</i>
             <span className="card-title">Mass Email Your Surveys</span>
-            <p>This app uses the sendGrid API to send out mass email campaigns with one click!</p>
+            <p>This app uses the sendGrid API to send out mass email campaigns with one click,
+              recording each recipients response!
+            </p>
           </div>
         </div>
         </div>
