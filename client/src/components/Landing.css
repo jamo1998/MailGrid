@@ -1,0 +1,11 @@
+.landing {
+  color: #ffffff;
+  border: 1px solid black;
+  margin-top: 50px;
+}
+
+.landing-header {
+  background-color: #404449;
+  margin-top: 0px;
+  padding: 10px;
+}
